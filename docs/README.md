@@ -6,6 +6,12 @@ The class information and content for W4111 -- Introduction to Databases
 
 ## Syllabus
 
+TDB
+
+## Lectures
+
+- [Lecture 1: Introduction, Course Overview, Concepts](https://github.com/donald-f-ferguson/W4111-Intro-to-Databases-Base/blob/155667f2e11a4406f6d92f554005c0bae4c6405f/Lectures/Fall-2024/W4111-2024F-1-Introduction-Concetps/W4111-2024F-1-Introduction-Concepts-V2.pdf)
+
 
 ## Calendar
 
