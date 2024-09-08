@@ -24,7 +24,7 @@ unless specifically marked for Programming Only.
 HW 0 is not worth any points, i.e. the points earned for submission is 0. Failing to submit HW 0 on time
 will result in deducting 5 points from your total grade at the end of the semester.
 
-Due date: 2023-Jan-28, 11:59 PM EDT on GradeScope
+Due date: 2024-SEP-15, 11:59 PM EDT on GradeScope
 
 __Please note:__
 - You may NOT use late days. 
