@@ -13,7 +13,7 @@ TDB
 ## Lectures
 
 - [Lecture 1: Introduction, Course Overview, Concepts](https://github.com/donald-f-ferguson/W4111-Intro-to-Databases-Base/blob/155667f2e11a4406f6d92f554005c0bae4c6405f/Lectures/Fall-2024/W4111-2024F-1-Introduction-Concetps/W4111-2024F-1-Introduction-Concepts-V2.pdf)
-- [Lecture 2: ER, Relational, SQL (1)]()
+- [Lecture 2: ER, Relational, SQL (1)](https://github.com/donald-f-ferguson/W4111-Intro-to-Databases-Base/blob/33dd8125c0d55b7d85ad5f7e84d56e972fb598fd/Lectures/Fall-2024/W4111-2024F-2-ER-Relational-SQL-1/W4111-2024F-2-ER-Relational-SQL.pdf)
 
 ## Calendar
 
