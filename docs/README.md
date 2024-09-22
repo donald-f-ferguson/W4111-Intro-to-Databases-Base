@@ -24,3 +24,5 @@ TDB
 ## Homework Assignments
 
 - Homework 0 -- [Initial instructions](Homework/HW0/HW0.md)
+
+- Homework 1, Part A -- Written questions.
