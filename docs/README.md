@@ -23,6 +23,15 @@ TDB
 
 ## Homework Assignments
 
-- Homework 0 -- [Initial instructions](Homework/HW0/HW0.md)
+### Homework 0
 
-- Homework 1, Part A -- Written questions.
+[Initial instructions](Homework/HW0/HW0.md)
+
+## Homework 1
+
+###Part A -- Written questions.
+
+[Homework 1, Part A](https://github.com/donald-f-ferguson/W4111-Intro-to-Databases-Base/blob/main/Homework-Assignments/HW1/F24-W4111-HW-1-A.pdf)
+is a set of written questions on concepts covered in the lectures. The current document contains the questions. The assignment
+is due on 2024-SEP-29 at 11:59 PM EDT. The TAs will create the GradeScope and CourseWorks entries and instructions for
+submission format.
