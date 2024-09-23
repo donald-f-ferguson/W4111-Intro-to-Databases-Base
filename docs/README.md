@@ -8,7 +8,22 @@ The class information and content for W4111 -- Introduction to Databases
 
 ## Syllabus
 
-TDB
+| Lecture Number | Date       | Topics                                                                 |
+|:---------------|------------|------------------------------------------------------------------------|
+| 1              | 2024-09-06 | - Introduction, course overview, core concept                          |
+| 2              | 2024-09-13 | - Part 1: ER model, relational model and algebra, SQL                  |
+| 3              | 2024-09-20 | - Part 2: ER model, relational model and algebra, SQL                  |
+| 4              | 2024-09-27 | - Part 3: ER model, relational model and algebra, SQL                  |
+| 5              | 2024-10-04 | - Conclusion: ER model, relational model, algebra, SQL                 |
+| 6              | 2024-10-11 | - Schema design and normalization.<br> - Data modeling design patterns |
+| 7              | 2024-10-18 | - Review<br>- Midterm<br>                                              |
+| 8              | 2024-10-25 | - Data storage, I/O, buffering pools, indexes, query processing        |
+| 9              | 2024-11-01 | - Part 1: NoSQL and cloud databases.                                   |
+| 10             | 2024-11-08 | - Part 2: NoSQL and cloud                                              |
+| 11             | 2024-11-15 | - Part 1: ETL, big data, data insights                                 |
+| 12             | 2024-11-22 | - Part 1: ETL, big data, data insights                                 |
+| NA             | 2024-11-29 | - Thanksgiving                                                         |
+| 12             | 2024-12-06 | - Overflow<br> - Advanced topics                                       |
 
 ## Lectures
 
