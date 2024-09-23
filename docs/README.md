@@ -8,6 +8,8 @@ The class information and content for W4111 -- Introduction to Databases
 
 ## Syllabus
 
+__We adapt the syllabus based on progress during the semester.__
+
 | Lecture Number | Date       | Topics                                                                 |
 |:---------------|------------|------------------------------------------------------------------------|
 | 1              | 2024-09-06 | - Introduction, course overview, core concept                          |
