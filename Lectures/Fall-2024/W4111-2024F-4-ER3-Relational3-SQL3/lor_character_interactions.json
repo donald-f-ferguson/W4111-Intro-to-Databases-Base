@@ -1,0 +1,170 @@
+[
+  {
+    "character_1": "Frodo Baggins",
+    "interaction_type": "gives the ring to",
+    "character_2": "Gandalf",
+    "book": "The Fellowship of the Ring",
+    "chapter": "Chapter 2: The Shadow of the Past",
+    "location": "Bag End, The Shire"
+  },
+  {
+    "character_1": "Aragorn",
+    "interaction_type": "guides",
+    "character_2": "Frodo Baggins",
+    "book": "The Fellowship of the Ring",
+    "chapter": "Chapter 10: Strider",
+    "location": "Bree, Eriador"
+  },
+  {
+    "character_1": "Gandalf",
+    "interaction_type": "fights",
+    "character_2": "Balrog",
+    "book": "The Fellowship of the Ring",
+    "chapter": "Chapter 5: The Bridge of Khazad-dûm",
+    "location": "Moria"
+  },
+  {
+    "character_1": "Legolas",
+    "interaction_type": "befriends",
+    "character_2": "Gimli",
+    "book": "The Two Towers",
+    "chapter": "Chapter 5: The White Rider",
+    "location": "Fangorn Forest"
+  },
+  {
+    "character_1": "Éowyn",
+    "interaction_type": "kills",
+    "character_2": "Witch-king of Angmar",
+    "book": "The Return of the King",
+    "chapter": "Chapter 6: The Battle of the Pelennor Fields",
+    "location": "Minas Tirith"
+  },
+  {
+    "character_1": "Frodo Baggins",
+    "interaction_type": "argues with",
+    "character_2": "Boromir",
+    "book": "The Fellowship of the Ring",
+    "chapter": "Chapter 10: The Breaking of the Fellowship",
+    "location": "Amon Hen, Gondor"
+  },
+  {
+    "character_1": "Samwise Gamgee",
+    "interaction_type": "saves",
+    "character_2": "Frodo Baggins",
+    "book": "The Two Towers",
+    "chapter": "Chapter 9: Shelob’s Lair",
+    "location": "Cirith Ungol, Mordor"
+  },
+  {
+    "character_1": "Frodo Baggins",
+    "interaction_type": "shows mercy to",
+    "character_2": "Gollum",
+    "book": "The Two Towers",
+    "chapter": "Chapter 1: The Taming of Sméagol",
+    "location": "Emyn Muil, near the Dead Marshes"
+  },
+  {
+    "character_1": "Aragorn",
+    "interaction_type": "claims allegiance from",
+    "character_2": "Army of the Dead",
+    "book": "The Return of the King",
+    "chapter": "Chapter 9: The Last Debate",
+    "location": "Paths of the Dead, Gondor"
+  },
+  {
+    "character_1": "Merry Brandybuck",
+    "interaction_type": "rides into battle with",
+    "character_2": "Éowyn",
+    "book": "The Return of the King",
+    "chapter": "Chapter 6: The Battle of the Pelennor Fields",
+    "location": "Pelennor Fields, Gondor"
+  },
+  {
+    "character_1": "Saruman",
+    "interaction_type": "betrays",
+    "character_2": "Sauron",
+    "book": "The Two Towers",
+    "chapter": "Chapter 10: The Voice of Saruman",
+    "location": "Orthanc, Isengard"
+  },
+  {
+    "character_1": "Gollum",
+    "interaction_type": "bites the finger of",
+    "character_2": "Frodo Baggins",
+    "book": "The Return of the King",
+    "chapter": "Chapter 3: Mount Doom",
+    "location": "Mount Doom, Mordor"
+  },
+  {
+    "character_1": "Aragorn",
+    "interaction_type": "crowns",
+    "character_2": "Frodo Baggins",
+    "book": "The Return of the King",
+    "chapter": "Chapter 10: The Steward and the King",
+    "location": "Minas Tirith, Gondor"
+  },
+  {
+    "character_1": "Frodo Baggins",
+    "interaction_type": "rescues",
+    "character_2": "Samwise Gamgee",
+    "book": "The Return of the King",
+    "chapter": "Chapter 13: The Field of Cormallen",
+    "location": "Mordor"
+  },
+  {
+    "character_1": "Pippin Took",
+    "interaction_type": "swears fealty to",
+    "character_2": "Denethor",
+    "book": "The Return of the King",
+    "chapter": "Chapter 1: Minas Tirith",
+    "location": "Minas Tirith, Gondor"
+  },
+  {
+    "character_1": "Frodo Baggins",
+    "interaction_type": "is betrayed by",
+    "character_2": "Gollum",
+    "book": "The Two Towers",
+    "chapter": "Chapter 9: Shelob’s Lair",
+    "location": "Cirith Ungol, Mordor"
+  },
+  {
+    "character_1": "Faramir",
+    "interaction_type": "captures",
+    "character_2": "Frodo Baggins",
+    "book": "The Two Towers",
+    "chapter": "Chapter 6: The Forbidden Pool",
+    "location": "Ithilien, Gondor"
+  },
+  {
+    "character_1": "Aragorn",
+    "interaction_type": "is crowned by",
+    "character_2": "Gandalf",
+    "book": "The Return of the King",
+    "chapter": "Chapter 15: The Steward and the King",
+    "location": "Minas Tirith, Gondor"
+  },
+  {
+    "character_1": "Gollum",
+    "interaction_type": "guides",
+    "character_2": "Frodo Baggins and Samwise Gamgee",
+    "book": "The Two Towers",
+    "chapter": "Chapter 4: Of Herbs and Stewed Rabbit",
+    "location": "Ithilien, Gondor"
+  },
+  {
+    "character_1": "Gandalf",
+    "interaction_type": "rescues",
+    "character_2": "Théoden",
+    "book": "The Two Towers",
+    "chapter": "Chapter 7: Helm's Deep",
+    "location": "Rohan"
+  },
+  {
+    "character_1": "Éomer",
+    "interaction_type": "meets",
+    "character_2": "Aragorn, Legolas, and Gimli",
+    "book": "The Two Towers",
+    "chapter": "Chapter 2: The Riders of Rohan",
+    "location": "Rohan"
+  }
+]
