@@ -34,7 +34,7 @@ __We adapt the syllabus based on progress during the semester.__
 - [Lecture 3: ER(2), Relational(2), SQL(2)](https://github.com/donald-f-ferguson/W4111-Intro-to-Databases-Base/blob/72362c384ff4df8d031dd10984f095d767f30815/Lectures/Fall-2024/W4111-2024F-3-ER2-Relational2-SQL2/W4111-2024F-3-ER2-Relational2-SQL2-v2.pdf)
 - [Lecture 4: ER(3), Relational(3), SQL(3)](https://github.com/donald-f-ferguson/W4111-Intro-to-Databases-Base/blob/main/Lectures/Fall-2024/W4111-2024F-4-ER3-Relational3-SQL3/W4111-2024F-4-ER3-Relational3-SQL3-v1.pdf)
 - [Lecture 5: ER(4), Relational(4), SQL(4)](https://github.com/donald-f-ferguson/W4111-Intro-to-Databases-Base/blob/main/Lectures/Fall-2024/W4111-2024F-5-ER4-Relational4-SQL4/W4111-2024F-5-ER4-Relational4-SQL4-v1.pdf)
-
+- [Lecture 6: ER(5), Relational(5), SQL(5)](https://github.com/donald-f-ferguson/W4111-Intro-to-Databases-Base/blob/main/Lectures/Fall-2024/W4111-2024F-6-ER5-Relational5-SQL5/W4111-2024F-6-ER5-Relational5-SQL5-v1.pdf)
 ## Calendar
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_1c81dc44043255169fe166a240bc17b2989cef9cdb12aabc247837b2a1c0e162%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
